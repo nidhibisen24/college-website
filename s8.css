@@ -1,0 +1,32 @@
+/********** Information Starts **********/
+
+.useful-info-ul {
+    list-style: none;
+}
+
+.useful-info-ul a {
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+}
+
+.useful-info-ul li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #5a4646;
+    padding-bottom: 15px;
+}
+
+.principal-image {
+    text-align: center
+}
+
+.principal-image img {
+    height: 330px;
+}
+
+.principal-para {
+    font-weight: bold;
+}
+
+
+/********** Information Ends **********/

@@ -1,0 +1,20 @@
+/********** Recruiter List Starts **********/
+
+.recruiter-head-style {
+    font-size: 28px;
+    color: #ffffff;
+    background: #03a9f4;
+    margin-bottom: 2px;
+}
+
+.recruiter-marquee {
+    height: 100px;
+}
+
+.recruiter-marquee img {
+    height: 80px;
+    width: 140px;
+}
+
+
+/********** Recruiter List Ends **********/

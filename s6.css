@@ -1,0 +1,24 @@
+/********** Slider Starts **********/
+
+.slider-width {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #565454;
+    padding: 10px;
+    height: 10%;
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+.sslider-width {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #565454;
+    padding: 10px;
+    height: 8%;
+    width: 45%;
+    margin-bottom: 10px;
+}
+
+
+/********** Slider Ends **********/

@@ -1,0 +1,127 @@
+/********** Latest News, Event, Notice Board Starts **********/
+
+.latest-news {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.event-list {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.notice-board {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.our-principal {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.about-us {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.certificate {
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #aea8a8;
+    padding: 20px;
+    height: 350px;
+    margin-bottom: 30px;
+}
+
+.heading-sect {
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #cfcfcf;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding-top: 2px;
+    border: 1px solid #cfcfcf;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: #0ba7c2;
+    color: white;
+}
+
+.heading-sect h3 {
+    color: white;
+}
+
+.head-title {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif!important;
+    color: #0f1010;
+    padding-bottom: 5px;
+}
+
+.upcoming-event-list li {
+    width: 100%;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.upcoming-event-list {
+    padding: 0px;
+    list-style: none;
+}
+
+.event-date {
+    background: #7bce0e;
+    width: 20px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.notice-board-list li {
+    width: 95%;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.notice-board-list {
+    padding: 0px;
+    list-style: none;
+}
+
+.latest-news-ul {
+    padding: 0px;
+    list-style: none;
+    line-height: 30px;
+}
+
+
+/********** Latest News, Event, Notice Board Ends **********/

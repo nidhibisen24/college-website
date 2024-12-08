@@ -1,0 +1,48 @@
+/********** Gallery Starts **********/
+
+.gallery-img {
+    height: 200px;
+    width: 95%;
+}
+
+.governor-img {
+    width: 25%;
+}
+
+.governor-name {
+    font-size: 16px;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.governor-designation {
+    font-size: 25px;
+    color: black;
+    padding-left: 10px;
+    margin-top: 6px;
+}
+
+.gove-sec-style {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #1d1c1c;
+    padding-bottom: 30px;
+}
+
+.gallery-head-style {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 5px;
+    border: 1px solid #cfcfcf;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background: #00aed9;
+    background: #03a9f4;
+    border: none;
+    padding: 2px 0px;
+}
+
+
+/********** Gallery Ends **********/

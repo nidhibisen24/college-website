@@ -1,0 +1,37 @@
+/********** Logo And Menu Starts **********/
+
+body {
+    background-image: url("Untitled.jpeg");
+    background-color: #443636;
+}
+
+.header-menu {
+    position: relative;
+    box-shadow: 0px 2px 5px 0px #ce5a5a36;
+}
+
+.logo {
+    width: fit-content;
+    float: left;
+}
+
+.main-menu {
+    list-style: upper-alpha;
+    float: right;
+    margin-top: 0px;
+}
+
+.main-menu a {
+    font-weight: 00;
+    color: #da7373;
+    font-size: 0px;
+    text-decoration: none;
+}
+
+.main-menu li {
+    float: left;
+    padding: 12px 15px;
+}
+
+
+/********** Logo And Menu Ends **********/
